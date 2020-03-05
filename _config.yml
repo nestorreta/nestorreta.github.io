@@ -126,3 +126,5 @@ credits: '<a href="https://github.com/bill-c-martin/bill-c-martin.github.io">For
 
 # Build settings
 permalink: pretty
+
+theme: jekyll-theme-cayman
