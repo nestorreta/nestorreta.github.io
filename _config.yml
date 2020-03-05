@@ -1,16 +1,16 @@
 # Site settings
-title: Bill Martin
-email: bill@billmartin.io
-url: http://billmartin.io
-description: "Full-Stack Web Developer, Musician, and Book Enthusiast."
-meta_author: Bill Martin
+title: Nestor Retamosa
+email: nestorreta@gmail.com
+url: http://www.linkedin.com/in/nestor-retamosa
+description: "Full-Stack Web Developer, and motorbikes Enthusiast."
+meta_author: Nestor Retamosa
 
 about:
   header: About
   content:
       left: By day, I code payment, enrollment, and quoting web applications for some of the industry's top health insurance companies, whilst striving for <a href="http://blog.codinghorror.com/a-pragmatic-quick-reference/" target="_new">Pragmatic Programmer</a> perfection.
       right: By night, I play guitar in three bands, camp, kayak, hike, play video games, read fantasy, sci-fi, & programming books, and ponder Life, The Universe, and Everything.
-      bottom: I live in Manchester, NH.
+      bottom: I live in Bristol, UK.
   interests:
     header: Interests as of Late
     content:
