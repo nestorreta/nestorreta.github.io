@@ -121,9 +121,6 @@ social:
     tooltip: Subscribe to RSS feed
     url: /feed.xml
 
-# Credits content
-credits: '<a href="https://github.com/bill-c-martin/bill-c-martin.github.io">Fork my portfolio on github</a>'
-
 # Build settings
 permalink: pretty
 
