@@ -39,6 +39,8 @@ stack:
 
 ### Project Description
 
+<video src="videos/8110 Facets of Identity.mp4" width="320" height="200" controls preload></video>
+
 MyPlanLink is a marketplace platform for health insurance providers (aka *providers* for short) that offers their customers a branded experience to shop, quote, compare, and enroll in a variety of health, dental, and vision products.
 
 The goal was to build a set of web services that this platform could flexibly and safely pass customer enrollment and payment information to which could then submit it to the health insurance providers. This included:
