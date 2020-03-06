@@ -321,7 +321,7 @@ article.blog-post footer .next {
 /* Contact */
 
 section#contact {
-    color: #fff;
+    color: white;
     background: #{{ site.color.primary }};
 }
 
