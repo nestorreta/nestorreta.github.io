@@ -8,30 +8,30 @@ meta_author: Nestor Retamosa
 about:
   header: About
   content:
-      left: By day, I code payment, enrollment, and quoting web applications for some of the industry's top health insurance companies, whilst striving for <a href="http://blog.codinghorror.com/a-pragmatic-quick-reference/" target="_new">Pragmatic Programmer</a> perfection.
-      right: By night, I play guitar in three bands, camp, kayak, hike, play video games, read fantasy, sci-fi, & programming books, and ponder Life, The Universe, and Everything.
+      left: I am very lucky to work at <a href="http://www.wethecurious.org" target="_new">We The Curious</a> playing with fun IT stuff and amazing people.
+      right: On my free time I scape home to Spain to see my family and my motorbikes.
       bottom: I live in Bristol, UK.
   interests:
     header: Interests as of Late
     content:
       left:
+        header: Before
+        list:
+          - item: C#
+          - item: JavaScript
+          - item: NodeJS
+      center:
         header: Now
         list:
-          - item: Laravel
-          - item: TDD
-          - item: DevOps
-      center:
+          - item: AWS
+          - item: Strapi
+          - item: React!
+      right:
         header: Soon
         list:
-          - item: SOLID Principles
+          - item: SQL
           - item: Design Patterns
-          - item: Sublime Mastery
-      right:
-        header: Later
-        list:
-          - item: React
-          - item: Vue
-          - item: ES2015
+          - item: Motorbikes :)
   button:
     text: Download My Resume
     href: /resume/nestor-retamosa.pdf
@@ -49,10 +49,10 @@ bing_verify:
 contact: static
 
 # If you use disqus you need disqus shortname: https://help.disqus.com/customer/portal/articles/466208
-disqus_shortname: billmartin
+disqus_shortname: nestorreta
 
 # If you have Google Analytics account setup, enter your tracker ID, eg. A-12312312-1
-google_analytics_tracker_id: A-89823208-1
+google_analytics_tracker_id: 
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -99,25 +99,25 @@ footer:
 social:
   - title: github
     tooltip: "Github: Code I am writing"
-    url: https://github.com/bill-c-martin
+    url: https://www.wethecurious.org/
   - title: linkedin
     tooltip: "Linkedin: Places I've worked"
-    url: https://www.linkedin.com/in/billmartin9
-  - title: codeschool
-    tooltip: "Codeschool: Skills I am learning"
-    url: https://www.codeschool.com/users/90602
-  - title: laracasts
-    tooltip: "Laracasts: Skills I am learning"
-    url: https://laracasts.com/@wcmarti2
-  - title: stack-overflow
-    tooltip: "Stack Overflow: Solutions I've been exchanging"
-    url: http://stackoverflow.com/users/5743565/bill-martin
-  - title: goodreads
-    tooltip: "Goodreads: Books I've been reading"
-    url: http://www.goodreads.com/billmartin
-  - title: rss
-    tooltip: Subscribe to RSS feed
-    url: /feed.xml
+    url: https://www.linkedin.com/in/nestor-retamosa/
+  # - title: codeschool
+  #   tooltip: "Codeschool: Skills I am learning"
+  #   url: https://www.codeschool.com/users/90602
+  # - title: laracasts
+  #   tooltip: "Laracasts: Skills I am learning"
+  #   url: https://laracasts.com/@wcmarti2
+  # - title: stack-overflow
+  #   tooltip: "Stack Overflow: Solutions I've been exchanging"
+  #   url: http://stackoverflow.com/users/5743565/bill-martin
+  # - title: goodreads
+  #   tooltip: "Goodreads: Books I've been reading"
+  #   url: http://www.goodreads.com/billmartin
+  # - title: rss
+  #   tooltip: Subscribe to RSS feed
+  #   url: /feed.xml
 
 # Build settings
 permalink: pretty
