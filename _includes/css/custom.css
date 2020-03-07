@@ -323,7 +323,7 @@ article.blog-post footer .next {
 section#contact {
     color: white;
     /* background: #{{ site.color.primary }}; */
-    background: black;
+    background:white;
 }
 
 section#contact hr.star-primary {
