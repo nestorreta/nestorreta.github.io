@@ -1,6 +1,10 @@
 /* Site Level */
-body {
+html, body {
   font-family: "PT Sans", "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+  width:100%;
+  margin:0;
+  padding:0;
+  position: absolute;
 }
 
 h4, .h4, h5, .h5, h6, .h6 {
