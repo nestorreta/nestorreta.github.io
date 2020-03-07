@@ -1,7 +1,7 @@
 /* Site Level */
 html, body {
   font-family: "PT Sans", "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
-  width:100%;
+  min-width:100%;
   margin:0;
   padding:0;
   position: absolute;
