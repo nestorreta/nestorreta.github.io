@@ -2,6 +2,7 @@
 html, body {
   font-family: "PT Sans", "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
   min-width:100%;
+  overflow: auto;
   margin:0;
   padding:0;
   position: absolute;
