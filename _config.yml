@@ -18,20 +18,20 @@ about:
         header: Before
         list:
           - item: C#
-          - item: JavaScript
+          - item: Object Oriented Programming
           - item: NodeJS
       center:
         header: Now
         list:
           - item: AWS
-          - item: Strapi
+          - item: Functional Programming
           - item: React!
       right:
         header: Soon
         list:
           - item: SQL
           - item: Design Patterns
-          - item: Motorbikes :)
+          - item: Motorbikes
   button:
     text: My CV
     href: /resume/nestor-retamosa.pdf
